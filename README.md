@@ -40,7 +40,8 @@
     - [String](#String)
     - [URL](#URL)
     - [UnitTest](#UnitTest)
-    - [Validation]#Validation)
+    - [Validation](#Validation)
+      -[Rules](#Rules)
     - [View](#View)
     - [Cache](#Cache)
       <br><br>
