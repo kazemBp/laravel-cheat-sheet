@@ -3,7 +3,7 @@
 # Laravel Cheat Sheet
 
 - Laravel 8 Cheat Sheet
-    - Artisan[^1]
+    - Artisan[Test](down)
     - Auth
     - Blade
     - Composer
