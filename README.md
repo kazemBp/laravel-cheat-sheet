@@ -2,42 +2,42 @@
 
 # Laravel Cheat Sheet
 
-- Laravel 8 Cheat Sheet
-    - Artisan[Test](#Auth)
-    - Auth
-    - Blade
-    - Composer
-    - Container
-    - Cookie
-    - Config
-    - DB
-    - Environment
-    - Event
-    - File
-    - Form
-    - HTML
-    - Helper
-    - Input
-    - Lang
-    - Log
-    - Mail
-    - Model
-    - Pagination
-    - Queue
-    - Redirect
-    - Request
-    - Response
-    - Route
-    - SSH
-    - Schema(Migration)
-    - Security
-    - Session
-    - String
-    - URL
-    - UnitTest
-    - Validation
-    - View
-    - Cache
+- Laravel 8 Cheat Sheet (Updating...)
+    - [Artisan](#Artisan)
+    - [Auth](#Auth)
+    - [Blade](#Blade)
+    - [Composer](#Composer)
+    - [Container](#Container)
+    - [Cookie](#Cookie)
+    - [Config](#Config)
+    - [DB](#DB)
+    - [Environment](#Environment)
+    - [Event](#Event)
+    - [File](#File)
+    - [Form](#Form)
+    - [HTML](#HTML)
+    - [Helper](#Helper)
+    - [Input](#Input)
+    - [Lang](#Lang)
+    - [Log](#Log)
+    - [Mail](#Mail)
+    - [Model](#Model)
+    - [Pagination](#Pagination)
+    - [Queue](#Queue)
+    - [Redirect](#Redirect)
+    - [Request](#Request)
+    - [Response](#Response)
+    - [Route](#Route)
+    - [SSH](#SSH)
+    - [Schema(Migration)](#Schema(Migration))
+    - [Security](#Security)
+    - [Session](#Session)
+    - [String](#String)
+    - [URL](#URL)
+    - [UnitTest](#UnitTest)
+    - [Validation]#Validation)
+    - [View](#View)
+    - [Cache](#Cache)
       <br><br>
 
 [//]: # (////Start Artisan)
