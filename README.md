@@ -29,7 +29,7 @@
     - [Response](#Response)
     - [Route](#Route)
     - [SSH](#SSH)
-    - [Schema(Migration)](#Schema(Migration))
+    - [Migration](#Migration)
     - [Security](#Security)
     - [Session](#Session)
     - [String](#String)
@@ -2413,7 +2413,7 @@ SSH::putString($string, $remotePath);
 
 [//]: # (////Start Schema)
 
-## Schema(Migration)
+## Migration
 
 Indicate that the table needs to be created
 
